@@ -1,6 +1,5 @@
 # Team 015 - Synchrony Datathon 2026
 
-Video: [link here]
 
 ## Setup
 
